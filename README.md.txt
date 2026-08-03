@@ -13,7 +13,7 @@ Di seguito trovi la lista aggiornata di tutti i tutorial pubblicati, organizzati
 | # | Argomento / Titolo Video | Codice Sorgente | Video YouTube |
 |---|-------------------------|-----------------|---------------|
 | **01** | **Metodi di Ottimizzazione:** Gradient Descent, Momentum | [`📂 01_gradient_descent_momentum`](./01_gradient_descent_momentum) | 🎬 [Guarda il Video](https://www.youtube.com/@il-tuo-canale) |
-| **02** | **Tree-Based Models:** Decision Trees, Random Forest & XGBoost (Math to Python) | [`📂 02_decision_trees_rf_xgboost`](./02_decision_trees_rf_xgboost) | 🎬 [Guarda il Video](https://www.youtube.com/@il-tuo-canale) |
+| **02** | **Tree-Based Models:** Decision Trees, Random Forest & XGBoost (Math to Python) | [`📂 02_decision_trees_rf_xgboost`](./02_decision_trees_rf_xgboost) | 🎬 [Guarda il Video](https://youtu.be/VpwJVJUcGas) |
 | **03** | *[Prossimo Video in Arrivo]* | `📂 03_nome_prossimo_video` | ⏳ In lavorazione |
 
 ---
